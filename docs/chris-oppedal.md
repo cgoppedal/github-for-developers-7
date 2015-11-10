@@ -1,0 +1,5 @@
+- [ ] Chris Oppedal
+- [ ] Cedar Falls, Iowa
+- [ ] Burritos
+- [ ] Beach Volleyball
+- [ ] **Favorite color:** green
